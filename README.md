@@ -2,6 +2,7 @@
 
 This is a simple Flask web application.
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -11,6 +12,7 @@ This is a simple Flask web application.
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+  
 
 ## Introduction
 
@@ -22,6 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 - [Python](https://www.python.org/) installed
 - [Docker](https://www.docker.com/) installed (if running the app in a Docker container)
+  
 
 ## Installation
 
@@ -41,6 +44,7 @@ Before you begin, ensure you have met the following requirements:
 
    Follow the instructions on the [ImageMagick website](https://imagemagick.org/script/download.php) to download and install ImageMagick on your system.
 
+
 ## Usage
 
 To run the app:
@@ -59,9 +63,6 @@ To run the app:
 
 3.  Access the app in your web browser at [http://127.0.0.1:5000](http://localhost:5000).
 
-## Configuration
-
-You can customize the app's configuration by modifying the `config.py` file or by setting environment variables. Refer to the [configuration documentation](#) for more details.
 
 ## Contributing
 
