@@ -1,0 +1,27 @@
+﻿#libraries
+
+blinker==1.7.0
+certifi==2023.7.22
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+decorator==4.4.2
+ez-setup==0.9
+Flask==3.0.0
+idna==3.4
+imageio==2.32.0
+imageio-ffmpeg==0.4.9
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+moviepy==1.0.3
+numpy==1.26.1
+Pillow>=8.3.2,<10.1.0
+proglog==0.1.10
+requests==2.31.0
+tqdm==4.66.1
+urllib3==2.0.7
+Werkzeug==3.0.1
+
+# System dependencies
+# Make sure ImageMagick is installed on your system
