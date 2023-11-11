@@ -44,6 +44,8 @@ Before you begin, ensure you have met the following requirements:
 
    Follow the instructions on the [ImageMagick website](https://imagemagick.org/script/download.php) to download and install ImageMagick on your system.
 
+5. For this app to work you need to create an directory called 'uploads' where your   uploaded video will be stored locally on your system. The path will be like this "app/uploads/". 
+
 
 ## Usage
 
